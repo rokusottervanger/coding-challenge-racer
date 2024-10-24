@@ -52,3 +52,6 @@
 [submodule "racer/bots/daniel"]
 	path = racer/bots/daniel
 	url = git@github.com:danielpijnenborg/racer_bot.git
+[submodule "racer/bots/rokus"]
+	path = racer/bots/rokus
+	url = https://github.com/rokusottervanger/coding-challenge-racer-bot
